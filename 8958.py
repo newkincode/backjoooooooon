@@ -12,3 +12,4 @@ for _ in range(int(input())):
             count2 = 0
         count += count2
     print(count)
+
